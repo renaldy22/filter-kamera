@@ -1,6 +1,6 @@
 # FilterKamera
 
-* project menggunakan  django https://www.djangoproject.com/  di buat saat PKL
+* project menggunakan  django https://devdocs.io/javascript/  di buat saat PKL
 
 ## Pembuat
 ```
